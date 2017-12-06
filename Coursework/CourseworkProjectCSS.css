@@ -75,11 +75,13 @@ width: 180px;
 
 div.gallery:hover {
 border: 1px solid #777;
+float: center;
 }
 
 div.gallery img {
 width: 70%; /*Sets the amount of space the images will take up*/
 height: auto; /*The height will adjust with the width*/
+float: center;
 }
 
 div.desc {
